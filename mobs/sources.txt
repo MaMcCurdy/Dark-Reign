@@ -1,8 +1,0 @@
-magic
-https://jellyfish0.itch.io/textures-for-particles
-
-boss
-https://clembod.itch.io/bringer-of-death-free
-
-enemies
-https://luizmelo.itch.io/monsters-creatures-fantasy
